@@ -1,0 +1,7 @@
+*** Error 18 "main.c" Line 1(9,16): File can not be opened
+    Not in source "msp.h"
+    Not in local "msp.h"
+    Not in project "D:\ML\msp.h"
+    Not in "C:\Program Files (x86)\PICC\Devices\msp.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\msp.h"
+*** Error 128 "D:\ML\final project of line follower\inc\Bump.h" Line 2(10,17): A #DEVICE required before this line
